@@ -1,0 +1,19 @@
+The following link will take you to the google colab notebooks used for this project.
+
+https://drive.google.com/drive/folders/15zCGL4_MYNwy4o-VNvcyKqPq_3v5tNf6?usp=sharing
+
+There are four sections to this notebook.
+
+1. Workspace
+- This contains all of the code used to produce the results found in the project dissertation.
+
+2. myRL Package Example
+- This contains the example code which demonstrates the use of the myRL package.
+
+3. DDPG, TD3, SAC code templates
+- This contains the basic code templates used for each test (without the clutter of each test that is found in the workspace)
+
+4. Code Documentation.ipynb
+- This notebook contains a near line-by-line breakdown of the code used for the DDPG algorithm. This was produced when trying to understand 
+the code from Udemy (which the DDPG, TD3, and SAC algorithms are implemented from). This was only produced for DDPG as TD3 and SAC use the
+same fundamental structure as DDPG.
